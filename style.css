@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #1e1e2f;
+    color: #eee;
+}
+
+header {
+    background-color: #1f6aa5;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0 0 10px 0;
+}
+
+nav button {
+    margin: 0 5px;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #4a90e2;
+    color: #fff;
+    font-weight: bold;
+}
+
+nav button:hover {
+    background-color: #3a78c2;
+}
+
+main {
+    padding: 20px;
+}
+
+.aba {
+    display: none;
+}
+
+.aba.ativa {
+    display: block;
+}
+
+form label {
+    display: block;
+    margin: 10px 0;
+}
+
+form input, form select, form button {
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+    margin-top: 4px;
+}
+
+button[type="submit"] {
+    background-color: #1f6aa5;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #155a8c;
+}
+
+#listaFuncionarios, #resultadoBusca, #msgCadastro, #msgLocacao {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #2a2a40;
+    border-radius: 5px;
+    max-height: 300px;
+    overflow-y: auto;
+}
