@@ -1,4 +1,4 @@
-# PP Logística – Sistema de Avaliações Internas
+# PP Logística – Aplicação WEB 
 
 Um sistema web desenvolvido para gerenciar **avaliações de desempenho**, **cadastros**, **processos internos** e outras rotinas da empresa **PP Logística**.  
 Projeto baseado em **Django**, com interfaces **HTML + CSS + Bootstrap** para garantir uma experiência moderna, intuitiva e responsiva.
