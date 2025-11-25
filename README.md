@@ -25,7 +25,3 @@ Projeto baseado em **Django**, com interfaces **HTML + CSS + Bootstrap** para ga
 - Layout responsivo com Bootstrap  
 - Preparado para futuras expansões e dashboards  
 
----
-
-## 🗂 Estrutura do Projeto
-
